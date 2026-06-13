@@ -1,6 +1,12 @@
+# local .gitignore file for this project
+.DS_Store
+.idea/
+
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .vscode/launch.json
 **/.DS_Store
+/inst
+/.vscode
